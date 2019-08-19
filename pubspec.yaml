@@ -1,8 +1,8 @@
 name: flutter_walkthrough
-description: A new Flutter package which helps developers in creating walkthrough of their app.
+description: A new Flutter package which helps developers in creating animated walkthrough of their app.
 version: 0.0.1
-author:
-homepage:
+author: Chirag Saraogi <chiragsaraogi10k@gmail.com>
+homepage: https://github.com/chirag10k/Flutter-Walkthrough
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
