@@ -1,8 +1,7 @@
 # flutter_walkthrough
 
-A new Flutter package for both android and iOS which helps developers in creating animated walkthrough of their app.
+A new Flutter package for both Android and iOS which helps developers in creating animated walkthrough of their app.
 
-### Show some :heart: and star the repo to support the project
 
 ## Screenshots
 
